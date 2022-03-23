@@ -1,0 +1,52 @@
+.SaveButton {
+  width: 25%;
+  height: 40px;
+  border-radius: 5px;
+  border: 3px solid dodgerblue;
+  color: dodgerblue;
+  background-color: white;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.SaveButton:hover {
+  background-color: dodgerblue;
+  color:white;
+  cursor: pointer;
+}
+
+.SaveButton:active {
+  background-color: rgb(152, 203, 255);
+}
+
+#savedText {
+  color: green;
+  font-size: 20px;
+  margin-left: 5px;
+  display: none;
+}
+
+#duplicateText {
+  color: orangered;
+  font-size: 18px;
+  margin-left: 5px;
+  display: none;
+}
+
+.DeleteButton {
+  border-radius: 50%;
+  padding: 3px;
+  width: 50%;
+  background-color: white;
+  color: red;
+  border: 2px solid red;
+  font-weight: bolder;
+  font-size: 15px;
+}
+
+.DeleteButton:hover {
+  cursor: pointer;
+  background-color: red;
+  color: white;
+}
+

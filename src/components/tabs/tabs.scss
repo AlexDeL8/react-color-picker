@@ -1,0 +1,38 @@
+$tabs-inactive-color: #d1cc67;
+$tabs-active-color: #fffbad;
+
+.Tabs {
+  list-style: none;
+  margin-left: 15px;
+  margin: 0px;
+}
+
+.Tab {
+  display: inline;
+  border: 2px solid $tabs-inactive-color;
+  border-bottom: none;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  padding: 5px;
+  font-size: 20px;
+  background-color: $tabs-inactive-color;
+}
+
+.Tab:hover {
+  cursor: pointer;
+}
+
+.activeTab {
+  display: inline;
+  border: 2px solid $tabs-inactive-color;
+  border-bottom: none;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  padding: 5px;
+  font-size: 20px;
+  background-color: $tabs-active-color;
+}
+
+.activeTab:hover {
+  cursor: pointer;
+}
