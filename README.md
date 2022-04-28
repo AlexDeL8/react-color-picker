@@ -15,7 +15,7 @@ _Created with CodeSandbox_
 
 
 ## Technologies Used
-- React, React Context, HTML, SASS, Flexbox, JavaScript
+- React, React Context, HTML, SCSS, Flexbox, JavaScript
 
 
 ## Features
