@@ -1,5 +1,3 @@
-# react-color-picker
-
 # React Color Picker
 ## React and React Context Practice
 
