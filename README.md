@@ -11,7 +11,7 @@
 
 ## General Information
 _Created with CodeSandbox_
-- Visit the project: 🖥️[**Odin Recipes**](https://alexdel8.github.io/odin-recipes/)
+- Visit the project: 🖥️[**React Color Picker**](https://codesandbox.io/s/color-picker-ursz0)
 
 
 ## Technologies Used
